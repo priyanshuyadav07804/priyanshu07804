@@ -1,17 +1,18 @@
+
 <div id="header" align="center">
-<img src="https://tenor.com/en-IN/view/programming-gif-17406363051075565651" width="100"/>
+<img src="https://github.com/priyanshuyadav07804/priyanshuyadav07804/assets/80442935/c1618977-4d20-4603-b35e-844541bf0ec8" width="300"/>
 </div>
-
-
-<p align="center">
-
-  
-<a href="https://www.linkedin.com/in/priyanshu-yadav-7885291b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-yadav-7885291b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/priyanshupower/">
+    <img src="https://img.shields.io/badge/Instagram-ff00ff?logo=Instagram&logoColor=white&style=for-the-badge" lt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/priyanshuYd_v">
+    <img src="https://img.shields.io/badge/Twitter-6600cc?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -19,12 +20,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m learning frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- ⚡ In my free time I solve problems on LeetCode.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-yadav-7885291b6/)
 
 ---
 
