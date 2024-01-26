@@ -1,7 +1,3 @@
-
-<div>
-  <img src="example.svg" alt="Your Image">
-</div>
 <div id="header" align="center">
   <img src="https://res.cloudinary.com/dkbqauksm/image/upload/r_10/v1706292169/aw5q4j7yjpkqc81jhgr9.gif" width="300"  />
 </div>
