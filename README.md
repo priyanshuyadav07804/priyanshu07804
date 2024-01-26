@@ -5,10 +5,8 @@
 
 <p align="center">
 
-https://tenor.com/en-IN/view/programming-gif-17406363051075565651
-
   
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/priyanshu-yadav-7885291b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
