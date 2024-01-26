@@ -1,6 +1,13 @@
+<div id="header" align="center">
+<img src="https://tenor.com/en-IN/view/programming-gif-17406363051075565651" width="100"/>
+</div>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
 <p align="center">
+
+https://tenor.com/en-IN/view/programming-gif-17406363051075565651
+
+  
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
