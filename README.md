@@ -1,4 +1,7 @@
 
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+  <img src="your-image-url.jpg" alt="Your Image" style="object-fit: cover; width: 100%; height: 100%;">
+</div>
 <div id="header" align="center">
   <img src="https://res.cloudinary.com/dkbqauksm/image/upload/r_10/v1706292169/aw5q4j7yjpkqc81jhgr9.gif" width="300"  />
 </div>
